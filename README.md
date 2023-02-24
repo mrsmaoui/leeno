@@ -29,7 +29,7 @@ Smaoui MR, Lafi A (2022) Leeno: Type 1 diabetes management training environment 
 
 ## INSTALLATION:
 
-To use Leeno, please download the latest version of the software for the Windows platform. The download file, `leeno-1.5.exe`, can be installed by following these steps:
+To use Leeno, please download the latest version of the software for the Windows 64-bit platform. The download file, `leeno-1.5.exe`, can be installed by following these steps:
 
 - Ensure that you have administrative privileges on your device.
 - Download the `leeno-1.5.exe` file from this repo.
